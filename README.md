@@ -147,11 +147,3 @@ The PDF contains the full redacted case study report, including the investigatio
 This report was completed as a simulated case study using test data. Screenshots in the public version have been redacted to avoid displaying customer, email, or payment-related values.
 
 The redactions are included to make the report appropriate for public sharing on GitHub while preserving the technical findings and overall investigation process.
-
----
-
-## Key Takeaway
-
-The case study shows why applications should never trust client-supplied values for critical business logic. Pricing, payment handling, and sensitive customer data should be validated, protected, masked, and processed securely on the server side.
-
-Beyond the technical exploit, the project also demonstrates how data science methods can support cybersecurity investigations by helping assess public exposure, sentiment, and reputational risk.
