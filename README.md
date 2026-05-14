@@ -135,7 +135,7 @@ isaca-web-security-assessment/
 ├── README.md
 ├── ISACA_Case_Study_Taylor_Peterson.pdf
 └── notebooks/
-    └── public_exposure_sentiment_analysis.ipynb
+    └── ISACA_sentiment_analysis.ipynb
 ```
 
 The PDF contains the full redacted case study report, including the investigation process, screenshots, visualizations, findings, and final security recommendations.
@@ -147,14 +147,6 @@ The PDF contains the full redacted case study report, including the investigatio
 This report was completed as a simulated case study using test data. Screenshots in the public version have been redacted to avoid displaying customer, email, or payment-related values.
 
 The redactions are included to make the report appropriate for public sharing on GitHub while preserving the technical findings and overall investigation process.
-
----
-
-## Ethical Use Notice
-
-This project was completed in a controlled academic and competition-based context. The testing described in the report was performed as part of a simulated case study and is intended for educational, defensive, and analytical purposes only.
-
-The goal of this work is to demonstrate responsible security analysis, clear documentation, and practical remediation planning.
 
 ---
 
